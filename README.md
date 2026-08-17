@@ -1,7 +1,7 @@
 # Uber-ride-Analysis
 Data cleaning, EDA , Power BI dashboard analyzing 150K ride bookings — identifying ₹28.97M in cancellation-driven revenue loss"
 
-Problem Statement
+#  Statement
 
 Only ~62% of ride bookings on the platform were completing successfully. The remaining ~38% — cancellations, driver-shortage situations, and incomplete trips — represented a significant, unquantified loss in potential revenue and operational efficiency. There was no clear picture of:
 
@@ -12,7 +12,7 @@ Whether specific locations, times, or vehicle types were disproportionately affe
 This project analyzes the dataset to answer these questions with concrete numbers, and packages the findings into an interactive dashboard.
 
 
-Key Findings
+# Key Findings
 
 Overall completion rate: 62.00% — consistent across vehicle types (61–63%) and hours (61–64%), but varies significantly by location (55–66%)
 Driver-initiated cancellations (27,000) are 2.5x more frequent than customer cancellations (10,500) — the single largest controllable driver of ride failure
